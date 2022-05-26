@@ -2,8 +2,8 @@ class Souffle < Formula
   desc "Logic Programming Language based on Datalog."
   homepage "https://souffle-lang.github.io"
   stable do
-    url "https://github.com/souffle-lang/souffle/archive/refs/tags/2.1.tar.gz"
-    sha256 "866b5aeaf88c0c5c2c1b6cb2b33faa6a0084154f5396e644f11767d6fe82b1d6"
+    url "https://github.com/souffle-lang/souffle/archive/refs/tags/2.2.tar.gz"
+    sha256 "81e5453512cd74774af8910b77bd2ba7a434179a47c4f9e3955fc204d20c78cb"
   end
   head "https://github.com/souffle-lang/souffle.git", :shallow => false
 
